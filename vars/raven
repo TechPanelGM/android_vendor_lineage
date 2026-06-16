@@ -2,16 +2,16 @@
 
 # Updated semi-manually via pixel/update-any-var.sh
 
-readonly build_id="BP4A.251205.006"
+readonly build_id="CP2A.260605.012"
 
 # Updated automatically via pixel/update-device-vars.sh
 
-readonly build_number="14401865"
+readonly build_number="15430684"
 
-readonly image_url="https://dl.google.com/dl/android/aosp/raven-bp4a.251205.006-factory-2b3b5168.zip"
-readonly image_sha256="2b3b5168148e1897ba2e34d2d9b45e9304a0de6b0d214ab8bd1d602384277ae1"
+readonly image_url="https://dl.google.com/dl/android/aosp/raven-cp2a.260605.012-factory-6b4949e8.zip"
+readonly image_sha256="6b4949e886afef43f5b5e5c560ec10b33d5a6a906db4df086db79239fc2a210d"
 
-readonly flash_url="https://flash.android.com/build/14401865?target=raven-user&signed"
+readonly flash_url="https://flash.android.com/build/15430684?target=raven-user&signed"
 
-readonly ota_url="https://dl.google.com/dl/android/aosp/raven-ota-bp4a.251205.006-c6c2752d.zip"
-readonly ota_sha256="c6c2752de7d6e1b7feffbd68dc719dda75109c144e6d217b35062cfa90431982"
+readonly ota_url="https://dl.google.com/dl/android/aosp/raven-ota-cp2a.260605.012-279f1eb7.zip"
+readonly ota_sha256="279f1eb7291ec00dbc7a90a39cbdf84f1d15bcaa0158e274e70a37a3837f21c3"
