@@ -2,16 +2,16 @@
 
 # Updated semi-manually via pixel/update-any-var.sh
 
-readonly build_id="BP4A.251205.006"
+readonly build_id="CP2A.260605.012"
 
 # Updated automatically via pixel/update-device-vars.sh
 
-readonly build_number="14401865"
+readonly build_number="15430684"
 
-readonly image_url="https://dl.google.com/dl/android/aosp/oriole-bp4a.251205.006-factory-dcfbf4cc.zip"
-readonly image_sha256="dcfbf4ccc9559d7fdd9f8757b5c6d9bc8688ebf46ff1b5b001a786c89c4e1350"
+readonly image_url="https://dl.google.com/dl/android/aosp/oriole-cp2a.260605.012-factory-c36da265.zip"
+readonly image_sha256="c36da265c37ae4539d7e3811a6d7a74233c70923be7e29685a3f5647d3d51c09"
 
-readonly flash_url="https://flash.android.com/build/14401865?target=oriole-user&signed"
+readonly flash_url="https://flash.android.com/build/15430684?target=oriole-user&signed"
 
-readonly ota_url="https://dl.google.com/dl/android/aosp/oriole-ota-bp4a.251205.006-13e2a17b.zip"
-readonly ota_sha256="13e2a17b2e400fc4dc4e5a2403b38034f67a25d6a79a98e8b2db87d8c00eff52"
+readonly ota_url="https://dl.google.com/dl/android/aosp/oriole-ota-cp2a.260605.012-558f3445.zip"
+readonly ota_sha256="558f34450847eaf8ad3b11a1ae99a48c8bdfef9c82009d6d02598da33358eee2"
